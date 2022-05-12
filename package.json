@@ -1,0 +1,22 @@
+{
+  "name": "hain_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hainlthit/hain_portfolio.git"
+  },
+  "author": "Hain Thit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hainlthit/hain_portfolio/issues"
+  },
+  "homepage": "https://github.com/hainlthit/hain_portfolio#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
