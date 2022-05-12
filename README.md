@@ -1,2 +1,3 @@
 # hain_portfolio
-Im ugly
+
+npm i node-sass
